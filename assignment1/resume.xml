@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE resume>
+
+<resume>
+
+                <name>Jennifer Brady</name>
+
+                <major>Digital Media and Web Technology</major>
+
+                <address>UGMC 3501 University Boulevard East Adelphi, MD 20783</address>
+
+                <last5>Last 5 Courses
+
+                                <course>CMST 385</course>
+
+                                <course>CMST 386</course>
+
+                                <course>CMST 388</course>
+
+                                <course>CMST 450</course>
+
+                                <course>CMST 495</course>
+
+                </last5>
+
+                <next>Next Course
+
+                                <coursef>Graduation</coursef>
+
+                </next>
+
+</resume>
