@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="user">
+  <xs:complexType>
+    <xs:sequence>
+        <xs:element name="userID">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:minLength value="0"/>
+                    <xs:maxLength value="255"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:element>
+      <xs:element name="username" >
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:minLength value="0"/>
+                    <xs:maxLength value="255"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:element>
+      <xs:element name="password">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:minLength value="0"/>
+                    <xs:maxLength value="255"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:element>
+      <xs:element name="first">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:minLength value="0"/>
+                    <xs:maxLength value="255"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:element>
+      <xs:element name="middle">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:minLength value="0"/>
+                    <xs:maxLength value="255"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:element>
+      <xs:element name="last">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:minLength value="0"/>
+                    <xs:maxLength value="255"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:element>
+      <xs:element name="email">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:minLength value="0"/>
+                    <xs:maxLength value="255"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:element>
+      <xs:element name="dob" type="xs:date"/>
+      <xs:element name="gender">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:minLength value="0"/>
+                    <xs:maxLength value="255"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:element>
+      <xs:element name="photo" type="xs:anyURI"/>
+      <xs:element name="homeph">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:minLength value="0"/>
+                    <xs:maxLength value="255"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:element>
+      <xs:element name="cellph">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:minLength value="0"/>
+                    <xs:maxLength value="255"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:element>
+      <xs:element name="createddate" type="xs:dateTime"/>
+      
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+</xs:schema>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE report>
+
+<report>
+    <user>
+        <userID></userID>
+        <username></username>
+        <password></password>
+        <first></first>
+        <middle></middle>
+        <last></last>
+        <email></email>
+        <dob></dob>
+        <gender></gender>
+        <photo></photo>
+        <homeph></homeph>
+        <cellph></cellph>
+        <createddate></createddate>
+
+    </user>
+
+    <review>
+        <reviewID></reviewID>
+        <reviewDescription></reviewDescription>
+        <star></star>
+        <userID></userID>
+        <createddate></createddate>
+    </review>
+
+    <missing>
+        <missingID></missingID>
+        <reporttype></reporttype>
+        <description></description>
+        <contact></contact>
+        <reward></reward>
+        <location></location>
+        <photo></photo>
+        <statusID></statusID>
+        <userID></userID>
+        <createddate></createddate>
+    </missing>
+
+    <aggression>
+        <aggressionID></aggressionID>
+        <reporttype></reporttype>
+        <description></description>
+        <location></location>
+        <photo></photo>
+        <statusID></statusID>
+        <userID></userID>
+        <createddate></createddate>
+    </aggression>
+    <medical>
+        <medicalID></medicalID>
+        <reporttype></reporttype>
+        <description></description>
+        <location></location>
+        <photo></photo>
+        <statusID></statusID>
+        <userID></userID>
+        <createddate></createddate>
+    </medical>
+    <sanitary>
+        <sanitaryID></sanitaryID>
+        <reporttype></reporttype>
+        <description></description>
+        <location></location>
+        <photo></photo>
+        <statusID></statusID>
+        <userID></userID>
+        <createddate></createddate>
+    </sanitary>
+    <suspicion>
+        <suspicionID></suspicionID>
+        <reporttype></reporttype>
+        <description></description>
+        <location></location>
+        <photo></photo>
+        <statusID></statusID>
+        <userID></userID>
+        <createddate></createddate>
+    </suspicion>
+    <product>
+        <productID></productID>
+        <productName></productName>
+        <productDescription></productDescription>
+        <contact></contact>
+        <price></price>
+        <location></location>
+        <photo></photo>
+        <statusID></statusID>
+        <statusID></statusID>
+        <conditionID></conditionID>
+        <userID></userID>
+        <createddate></createddate>
+    </product>
+    <condition>
+        <conditionID></conditionID>
+        <conditionDescription></conditionDescription>
+    </condition>
+    <create>
+        <statusID></statusID>
+        <statusDescription></statusDescription>
+    </create>
+
+</report>

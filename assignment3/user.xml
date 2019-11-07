@@ -1,0 +1,16 @@
+<user>
+        <userID></userID>
+        <username></username>
+        <password></password>
+        <first></first>
+        <middle></middle>
+        <last></last>
+        <email></email>
+        <dob>2000-09-11</dob>
+        <gender></gender>
+        <photo></photo>
+        <homeph></homeph>
+        <cellph></cellph>
+        <createddate>2019-11-01T00:00:00</createddate>
+
+    </user>
