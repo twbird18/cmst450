@@ -3,14 +3,7 @@
 <xs:element name="user">
   <xs:complexType>
     <xs:sequence>
-        <xs:element name="userID">
-            <xs:simpleType>
-                <xs:restriction base="xs:string">
-                    <xs:minLength value="0"/>
-                    <xs:maxLength value="255"/>
-                </xs:restriction>
-            </xs:simpleType>
-        </xs:element>
+        <xs:element name="userID"></xs:element>
       <xs:element name="username" >
             <xs:simpleType>
                 <xs:restriction base="xs:string">
