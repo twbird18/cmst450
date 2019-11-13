@@ -1,6 +1,6 @@
  <aggression>
         <aggressionID></aggressionID>
-        <reporttype></reporttype>
+        <reporttype>1</reporttype>
         <description></description>
         <location></location>
         <photo></photo>

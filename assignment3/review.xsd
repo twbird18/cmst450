@@ -11,9 +11,7 @@
                 </xs:restriction>
             </xs:simpleType>
         </xs:element>
-         <xs:element name="reviewDescription">
-
-        </xs:element>
+         <xs:element name="reviewDescription"></xs:element>
          <xs:element name="star">
             <xs:simpleType>
                 <xs:restriction base="xs:double"/>

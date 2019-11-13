@@ -1,6 +1,6 @@
 <product>
         <productID></productID>
-        <productName></productName>
+        <productName>1</productName>
         <productDescription></productDescription>
         <contact></contact>
         <price></price>
@@ -10,4 +10,4 @@
         <conditionID></conditionID>
         <userID></userID>
         <createddate>2019-11-01T00:00:00</createddate>
-    </product>
+</product>
