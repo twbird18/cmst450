@@ -1,0 +1,13 @@
+<product>
+        <productID></productID>
+        <productName></productName>
+        <productDescription></productDescription>
+        <contact></contact>
+        <price></price>
+        <location></location>
+        <photo></photo>
+        <statusID></statusID>
+        <conditionID></conditionID>
+        <userID></userID>
+        <createddate>2019-11-01T00:00:00</createddate>
+    </product>
