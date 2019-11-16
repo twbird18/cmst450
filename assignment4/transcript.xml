@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<transcript>
+    <course>
+        <course>Introduction to Interactive Design</course>
+        <code>CMST 290</code>
+        <credits>3</credits>
+        <grade>A</grade>
+        <semester>Spring</semester>
+        <year>2019</year>
+    </course>
+    <course>
+        <course>Fundamentals of Digital Media</course>
+        <code>CMST 295</code>
+        <credits>3</credits>
+        <grade>A</grade>
+        <semester>Spring</semester>
+        <year>2019</year>
+    </course>
+    <course>
+        <course>Digital Media and Society</course>
+        <code>CMST 301</code>
+        <credits>3</credits>
+        <grade>A</grade>
+        <semester>Spring</semester>
+        <year>2019</year>
+    </course>
+    <course>
+        <course>Advanced Application Software</course>
+        <code>CMST 303</code>
+        <credits>3</credits>
+        <grade>A</grade>
+        <semester>Spring</semester>
+        <year>2019</year>
+    </course>
+    <course>
+        <course>Fundamentals of Electronic Publishing</course>
+        <code>CMST 310</code>
+        <credits>3</credits>
+        <grade>A</grade>
+        <semester>Spring</semester>
+        <year>2019</year>
+    </course>
+    <course>
+        <course>Principles of Design and Web Technology I</course>
+        <code>CMST 385</code>
+        <credits>3</credits>
+        <grade>A</grade>
+        <semester>Spring</semester>
+        <year>2019</year>
+    </course>
+    <course>
+        <course>Principles of Design and Web Technology II</course>
+        <code>CMST 386</code>
+        <credits>3</credits>
+        <grade>A</grade>
+        <semester>Fall</semester>
+        <year>2019</year>
+    </course>
+    <course>
+        <course>Fundamentals of Javascript</course>
+        <code>CMST 388</code>
+        <credits>3</credits>
+        <grade>I</grade>
+        <semester>Fall</semester>
+        <year>2019</year>
+    </course>
+    <course>
+        <course>Web Development Using XML</course>
+        <code>CMST 450</code>
+        <credits>3</credits>
+        <grade>I</grade>
+        <semester>Fall</semester>
+        <year>2019</year>
+    </course>
+    <course>
+        <course>Trends and Projects in Digital Media and Web Design</course>
+        <code>CMST 495</code>
+        <credits>3</credits>
+        <grade>I</grade>
+        <semester>Fall</semester>
+        <year>2019</year>
+    </course>
+</transcript>
